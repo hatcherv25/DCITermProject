@@ -1,0 +1,91 @@
+#pre-law{
+    background-color: #E27C7C;
+    padding-top: 31px;
+    padding-bottom: 31px;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+#portfolio{
+    text-align: center;
+    padding-bottom: 158.5px;
+}
+#name{
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 30px;
+}
+body{
+    background-color: #DDF3FF;
+}
+#pic1 {
+    height: 540px;
+}
+#work{
+    padding-left: 200px;
+    padding-top: 40px;
+}
+#summer{
+    padding-left: 240px;
+}
+#MorganStanley{
+    padding-top: 50px;
+    text-align: center;
+    padding-right: 350px;
+}
+#morgan{
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+}
+#AlumniChair{
+    background-color: #E27C7C;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 50px;
+    color: white;
+    padding-left: 150px;
+}
+#spring{
+    Text-align: right;
+    font-size: 35px;
+    padding-left: 120px;
+}
+#p1MC{
+    padding-left: 100px;
+    padding-right: 150px;
+    padding-top: 40px;
+    text-indent: 50px;
+}
+#p2MC{
+    padding-left: 100px;
+    padding-right: 150px;
+    padding-top: 10px;
+    text-indent: 50px;
+}
+#p3MC{
+    padding-left: 100px;
+    padding-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 70px;
+    text-indent: 50px;
+}
+#education{
+    height: 250px;
+    width: 600px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    background-color: #E27C7C;
+    color: white;
+    padding-top: 70px;
+    margin-left: 1030px;
+}
+#EducationInfo{
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-indent: 50px;
+}
