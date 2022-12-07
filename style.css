@@ -21,10 +21,10 @@
 #work{
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: #E27C7C;
+    background-color: #C2D2ED;
     padding-left: 100px;
     margin-top: 150px;
-    color: white;
+    color: #377CE9;
 }
 #summer{
     padding-top: 75px;
@@ -39,7 +39,7 @@
     padding-bottom: 50px;
 }
 #AlumniChair{
-    background-color: #E27C7C;
+    background-color: #C2D2ED;
     padding-top: 50px;
     padding-bottom: 50px;
     font-size: 50px;
@@ -77,7 +77,7 @@
     border-radius: 50%;
     display: inline-block;
     text-align: center;
-    background-color: #E27C7C;
+    background-color: #C2D2ED;
     color: white;
     padding-top: 70px;
     margin-left: 1030px;
