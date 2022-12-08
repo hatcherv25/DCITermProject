@@ -1,16 +1,20 @@
+nav{
+    font-family: 'Noto Sans KR', sans-serif;
+}
 #pre-law{
     padding-top: 20px;
     padding-bottom: 31px;
     text-align: center;
     color: black;
     font-size: 20px;
-
+    font-family: 'PT Serif', serif;
 }
 #portfolio{
     text-align: center;
-    padding-top: 300px;
+    padding-top: 230px;
     margin-right: 300px;
     margin-left: 300px;
+    font-family: 'PT Serif', serif;
 }
 
 #pic1 {
@@ -25,66 +29,94 @@
     padding-left: 100px;
     margin-top: 150px;
     color: #377CE9;
+    margin-bottom: 50px;
+    font-family: 'PT Serif', serif;
 }
-#summer{
-    padding-top: 75px;
-    padding-left: 170px;
-    font-size: 30px;
+#Morgan{
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-right: 20px;
+    font-family: 'Noto Sans KR', sans-serif;
 }
-
-#morgan{
-    padding-top: 30px;
-    padding-left: 250px;
-    padding-right: 950px;
-    padding-bottom: 50px;
+#Cousins{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 50px;
+    font-family: 'Noto Sans KR', sans-serif;
 }
 #AlumniChair{
     background-color: #C2D2ED;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    font-size: 50px;
-    color: white;
-    padding-left: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 40px;
+    color: #377CE9;
+    padding-left: 100px;
+    margin-bottom: 70px;
+    margin-top: 80px;
+    font-family: 'PT Serif', serif;
 }
 #spring{
-    Text-align: right;
-    font-size: 35px;
-    padding-left: 120px;
+    font-size: 30px;
+    padding-left: 180px;
+    font-family: 'PT Serif', serif;
 }
-#p1MC{
-    padding-left: 100px;
-    padding-right: 150px;
-    padding-top: 40px;
-    text-indent: 50px;
+
+#pic2{
+    height: 500px;
 }
-#p2MC{
-    padding-left: 100px;
-    padding-right: 150px;
-    padding-top: 10px;
-    text-indent: 50px;
+#MCdescription{
+    text-indent: 40px;
+    margin-top: 60px;
+    margin-left: 30px;
+    font-family: 'Noto Sans KR', sans-serif;
 }
-#p3MC{
+#ed{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #C2D2ED;
     padding-left: 100px;
-    padding-right: 150px;
-    padding-top: 10px;
-    padding-bottom: 70px;
-    text-indent: 50px;
+    margin-top: 150px;
+    color: #377CE9;
+    margin-bottom: 30px;
+    font-family: 'PT Serif', serif;
 }
 #education{
-    height: 250px;
-    width: 600px;
+    height: 200px;
+    width: 500px;
     background-color: #bbb;
     border-radius: 50%;
     display: inline-block;
     text-align: center;
     background-color: #C2D2ED;
-    color: white;
-    padding-top: 70px;
-    margin-left: 1030px;
+    color: #377CE9;
+    padding-top: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-family: 'PT Serif', serif;
+}
+#schools{
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: 'PT Serif', serif;
+}
+#pic3{
+    height: 420px;
+    margin-top: 80px;
+    margin-left: 90px;
 }
 #EducationInfo{
-    padding-top: 50px;
-    padding-left: 100px;
-    padding-right: 100px;
     text-indent: 50px;
+    margin-top: 50px;
+    font-family: 'Noto Sans KR', sans-serif;
+   
+}
+footer{
+    background-color: #e9edf1;
+    margin-top: 100px;
+    height: 100px;
+    font-family: 'Noto Sans KR', sans-serif;
+    text-align: center;
+    padding-top: 20px;
 }
